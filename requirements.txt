@@ -1,0 +1,9 @@
+torch>=2.1
+torchvision>=0.16
+open-clip-torch>=2.24
+pillow>=10.0
+matplotlib>=3.8
+numpy>=1.26
+pandas>=2.2
+tqdm>=4.66
+scikit-learn>=1.4

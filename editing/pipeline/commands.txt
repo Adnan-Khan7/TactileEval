@@ -1,0 +1,17 @@
+# Example usage (quote paths with spaces)
+python3 editing/pipeline/process_image.py \
+  --tactile-path "*/family_datasets/Animals_and_Creatures/Dinosaur/Tactile/9.jpg" \
+  --natural-path "*family_datasets/Animals_and_Creatures/Dinosaur/Natural/9_Dinosaur.jpeg" \
+  --dataset-root */family_datasets \
+  --task-id F1QL \
+  --classifier */all_clip_probe.pt \
+  --clip-pretrained laion2b_s32b_b82k \
+  --vit-threshold 0.6 \
+  --image-model gpt-image-1 \
+  --output-root /outputs
+
+# Optional flags:
+#   --skip-natural          # force tactile-only features
+#   --subject-name "Fox"    # override subject text in prompt
+
+

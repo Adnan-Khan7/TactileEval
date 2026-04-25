@@ -1,0 +1,24 @@
+# 1) Install deps (once)
+pip install open-clip-torch==2.24.0 torch torchvision tqdm scikit-learn
+
+# 2) Build JSONL splits from finalized AMT CSVs
+python3 ../dataset/scripts/build_final_dataset.py \
+  --amt-csv-dir ../dataset \
+  --output-dir ../dataset/processed \
+  --consensus-min 5 \
+  --min-votes 3
+
+# 3) Run family-specific + all-family training/eval (CLIP ViT-L/14)
+python3 scripts/run_vit_pipeline.py \
+  --dataset-root ../dataset/processed \
+  --image-root ../smc_2026/family_datasets \
+  --model ViT-L-14 \
+  --pretrained laion2b_s34b_b88k \
+  --epochs 20 \
+  --hidden-dim 512 \
+  --batch-size 128
+
+# Outputs:
+#   features/<FAMILY>/<family>_{train,val,test}.npz
+#   models/<FAMILY>/<family>_clip_probe.pt
+#   outputs/<FAMILY>/<family>_test_metrics.json (includes per-task accuracy + issue counts)

@@ -1,0 +1,152 @@
+[
+  {
+    "prob": 0.955,
+    "task": "F2QT",
+    "option": "missing_texture",
+    "desc": "Missing texture",
+    "votes": "5/6",
+    "pair": "Food_Nature_and_Simple_Objects/Egg/Natural/2.jpg::Food_Nature_and_Simple_Objects/Egg/Tactile/2.jpg",
+    "natural": "Food_Nature_and_Simple_Objects/Egg/Natural/2.jpg",
+    "tactile": "Food_Nature_and_Simple_Objects/Egg/Tactile/2.jpg"
+  },
+  {
+    "prob": 0.926,
+    "task": "F1QL",
+    "option": "too_thick",
+    "desc": "Line thickness",
+    "votes": "7/7",
+    "pair": "Animals_and_Creatures/Dinosaur/Natural/9_Dinosaur.jpeg::Animals_and_Creatures/Dinosaur/Tactile/9.jpg",
+    "natural": "Animals_and_Creatures/Dinosaur/Natural/9_Dinosaur.jpeg",
+    "tactile": "Animals_and_Creatures/Dinosaur/Tactile/9.jpg"
+  },
+  {
+    "prob": 0.914,
+    "task": "F2QT",
+    "option": "missing_texture",
+    "desc": "Missing texture",
+    "votes": "7/7",
+    "pair": "Food_Nature_and_Simple_Objects/Bottle/Natural/6_Bottle.jpg::Food_Nature_and_Simple_Objects/Bottle/Tactile/6.jpeg",
+    "natural": "Food_Nature_and_Simple_Objects/Bottle/Natural/6_Bottle.jpg",
+    "tactile": "Food_Nature_and_Simple_Objects/Bottle/Tactile/6.jpeg"
+  },
+  {
+    "prob": 0.909,
+    "task": "F2QT",
+    "option": "missing_texture",
+    "desc": "Missing texture",
+    "votes": "7/7",
+    "pair": "Food_Nature_and_Simple_Objects/Planet/Natural/8.jpg::Food_Nature_and_Simple_Objects/Planet/Tactile/8.jpg",
+    "natural": "Food_Nature_and_Simple_Objects/Planet/Natural/8.jpg",
+    "tactile": "Food_Nature_and_Simple_Objects/Planet/Tactile/8.jpg"
+  },
+  {
+    "prob": 0.896,
+    "task": "F2QT",
+    "option": "missing_texture",
+    "desc": "Missing texture",
+    "votes": "5/6",
+    "pair": "Food_Nature_and_Simple_Objects/Planet/Natural/10.jpg::Food_Nature_and_Simple_Objects/Planet/Tactile/10.jpg",
+    "natural": "Food_Nature_and_Simple_Objects/Planet/Natural/10.jpg",
+    "tactile": "Food_Nature_and_Simple_Objects/Planet/Tactile/10.jpg"
+  },
+  {
+    "prob": 0.881,
+    "task": "F2QT",
+    "option": "missing_texture",
+    "desc": "Missing texture",
+    "votes": "6/6",
+    "pair": "Food_Nature_and_Simple_Objects/Tree/Natural/22.png::Food_Nature_and_Simple_Objects/Tree/Tactile/22.jpeg",
+    "natural": "Food_Nature_and_Simple_Objects/Tree/Natural/22.png",
+    "tactile": "Food_Nature_and_Simple_Objects/Tree/Tactile/22.jpeg"
+  },
+  {
+    "prob": 0.873,
+    "task": "F2QT",
+    "option": "missing_texture",
+    "desc": "Missing texture",
+    "votes": "5/6",
+    "pair": "Food_Nature_and_Simple_Objects/Cup/Natural/cup_13.jpeg::Food_Nature_and_Simple_Objects/Cup/Tactile/13.jpg",
+    "natural": "Food_Nature_and_Simple_Objects/Cup/Natural/cup_13.jpeg",
+    "tactile": "Food_Nature_and_Simple_Objects/Cup/Tactile/13.jpg"
+  },
+  {
+    "prob": 0.863,
+    "task": "F2QT",
+    "option": "missing_texture",
+    "desc": "Missing texture",
+    "votes": "5/6",
+    "pair": "Food_Nature_and_Simple_Objects/Leaf/Natural/1.jpg::Food_Nature_and_Simple_Objects/Leaf/Tactile/1.jpg",
+    "natural": "Food_Nature_and_Simple_Objects/Leaf/Natural/1.jpg",
+    "tactile": "Food_Nature_and_Simple_Objects/Leaf/Tactile/1.jpg"
+  },
+  {
+    "prob": 0.859,
+    "task": "F2QT",
+    "option": "missing_texture",
+    "desc": "Missing texture",
+    "votes": "5/7",
+    "pair": "Food_Nature_and_Simple_Objects/Tomato/Natural/7.jpg::Food_Nature_and_Simple_Objects/Tomato/Tactile/7.jpg",
+    "natural": "Food_Nature_and_Simple_Objects/Tomato/Natural/7.jpg",
+    "tactile": "Food_Nature_and_Simple_Objects/Tomato/Tactile/7.jpg"
+  },
+  {
+    "prob": 0.838,
+    "task": "F5QL",
+    "option": "too_thick",
+    "desc": "Line thickness",
+    "votes": "7/7",
+    "pair": "Vehicles_and_Flight_Systems/Scooty/Natural/9.jpg::Vehicles_and_Flight_Systems/Scooty/Tactile/9.jpg",
+    "natural": "Vehicles_and_Flight_Systems/Scooty/Natural/9.jpg",
+    "tactile": "Vehicles_and_Flight_Systems/Scooty/Tactile/9.jpg"
+  },
+  {
+    "prob": 0.835,
+    "task": "F1QL",
+    "option": "too_thick",
+    "desc": "Line thickness",
+    "votes": "6/6",
+    "pair": "Animals_and_Creatures/Elephant/Natural/11_Elephant.jpeg::Animals_and_Creatures/Elephant/Tactile/11.jpg",
+    "natural": "Animals_and_Creatures/Elephant/Natural/11_Elephant.jpeg",
+    "tactile": "Animals_and_Creatures/Elephant/Tactile/11.jpg"
+  },
+  {
+    "prob": 0.824,
+    "task": "F2QT",
+    "option": "missing_texture",
+    "desc": "Missing texture",
+    "votes": "6/7",
+    "pair": "Food_Nature_and_Simple_Objects/Soda Cans/Natural/1.jpg::Food_Nature_and_Simple_Objects/Soda Cans/Tactile/1.jpg",
+    "natural": "Food_Nature_and_Simple_Objects/Soda Cans/Natural/1.jpg",
+    "tactile": "Food_Nature_and_Simple_Objects/Soda Cans/Tactile/1.jpg"
+  },
+  {
+    "prob": 0.824,
+    "task": "F5QL",
+    "option": "too_thick",
+    "desc": "Line thickness",
+    "votes": "6/7",
+    "pair": "Vehicles_and_Flight_Systems/Train/Natural/11.png::Vehicles_and_Flight_Systems/Train/Tactile/11.png",
+    "natural": "Vehicles_and_Flight_Systems/Train/Natural/11.png",
+    "tactile": "Vehicles_and_Flight_Systems/Train/Tactile/11.png"
+  },
+  {
+    "prob": 0.821,
+    "task": "F4QP",
+    "option": "missing_parts",
+    "desc": "Missing parts",
+    "votes": "6/8",
+    "pair": "Tools_Instruments_and_Appliances/Laptop/Natural/10.jpeg::Tools_Instruments_and_Appliances/Laptop/Tactile/10.jpeg",
+    "natural": "Tools_Instruments_and_Appliances/Laptop/Natural/10.jpeg",
+    "tactile": "Tools_Instruments_and_Appliances/Laptop/Tactile/10.jpeg"
+  },
+  {
+    "prob": 0.806,
+    "task": "F2QT",
+    "option": "missing_texture",
+    "desc": "Missing texture",
+    "votes": "7/9",
+    "pair": "Food_Nature_and_Simple_Objects/Tree/Natural/2.png::Food_Nature_and_Simple_Objects/Tree/Tactile/2.jpg",
+    "natural": "Food_Nature_and_Simple_Objects/Tree/Natural/2.png",
+    "tactile": "Food_Nature_and_Simple_Objects/Tree/Tactile/2.jpg"
+  }
+]
